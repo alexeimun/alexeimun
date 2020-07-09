@@ -10,9 +10,8 @@
 
 I'm a Developer Expert in Anguar 2+, When I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
 
-- 😄 My Pronouns: She/Her   
-- 💬 Ask me about: Vue, Jamstack 
-- 📫 How to reach me: [@lauragift_](https://twitter.com/lauragift_)
+- 💬 Ask me about: Angular, NodeJs 
+- 📫 How to reach me: [@alexeimun_](https://twitter.com/alexeimun_)
 - ⚡ Fun fact: I'm 6"1 and I haven't played basketball ever in my life! 😄
 
 <!--
