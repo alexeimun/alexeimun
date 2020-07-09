@@ -6,13 +6,12 @@
 </p>
 
 ---
-✨ I'm a fullstack engineer settled in Colombia. I’m passionate about making the web stuff and building open-source projects. 
+✨ I'm a fullstack engineer settled in Colombia. I’m passionate about making web stuff and building open-source projects. 
 
-I'm a Developer Expert in Anguar 2+, When I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
+I'm a Developer Expert in Anguar 2+, when I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
 
 - 💬 Ask me about: Angular, NodeJs 
 - 📫 How to reach me: [@alexeimun_](https://twitter.com/alexeimun_)
-- ⚡ Fun fact: I'm 6"1 and I haven't played basketball ever in my life! 😄
 
 <!--
 **alexeimun/alexeimun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +24,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
