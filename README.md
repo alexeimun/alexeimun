@@ -6,7 +6,7 @@
 </p>
 
 ---
-✨ I'm a fullstack engineer based Colombia. I’m passionate about making the web stuff and building open-source projects. 
+✨ I'm a fullstack engineer settled in Colombia. I’m passionate about making the web stuff and building open-source projects. 
 
 I'm a Developer Expert in Anguar 2+, When I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
 
