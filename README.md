@@ -10,7 +10,7 @@
 
 I'm a Developer Expert in Anguar 2+, when I'm not coding you can find me geeking about photography and exploring different ways of documenting stories using photography and cooking delicious delicacies.
 
-- 💬 Ask me about: Angular, NodeJs 
+- 💬 Ask me about: React, Angular, NodeJs, Python ...
 - 📫 How to reach me: [@alexeimun_](https://twitter.com/alexeimun_)
 
 <!--
