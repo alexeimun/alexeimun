@@ -26,5 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/alexeikmun"><img src="https://api.daily.dev/devcards/8487c52af2f441b5bd3d5f0a9ca44812.png?r=fpw" width="400" alt="Alexis's Dev Card"/></a>
+<div align="center">
+<a href="https://app.daily.dev/alexeikmun" style="width:100%"><img src="https://api.daily.dev/devcards/8487c52af2f441b5bd3d5f0a9ca44812.png?r=fpw" width="400" alt="Alexis's Dev Card"/></a>
+</div>
