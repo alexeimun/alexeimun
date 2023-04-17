@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/alexeimun"><img src="https://api.daily.dev/devcards/cb6e9cbfe30a4797afcc54bbef8b3661.png?r=3uv" width="400" alt="Alexis (GH)'s Dev Card"/></a>
+<a href="https://app.daily.dev/alexeikmun"><img src="https://api.daily.dev/devcards/8487c52af2f441b5bd3d5f0a9ca44812.png?r=fpw" width="400" alt="Alexis's Dev Card"/></a>
